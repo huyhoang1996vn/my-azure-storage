@@ -14,3 +14,7 @@ A container organizes a set of blobs, similar to a directory in a file system. A
 # Shared access signature (SAS Token)
 ![image](https://user-images.githubusercontent.com/29280957/208163881-7d48ad4d-ef8f-4cf0-b605-0ef254629375.png)
 
+# azcopy 
+https://www.frankysnotes.com/2021/02/how-to-copy-data-in-azure-using-azcopy.html
+azcopy copy https://url-source https://url-destination
+
