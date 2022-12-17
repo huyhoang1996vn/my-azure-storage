@@ -18,3 +18,7 @@ A container organizes a set of blobs, similar to a directory in a file system. A
 https://www.frankysnotes.com/2021/02/how-to-copy-data-in-azure-using-azcopy.html
 azcopy copy https://url-source https://url-destination
 
+
+# azure sdk
+https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-nodejs?tabs=managed-identity%2Croles-azure-portal%2Csign-in-azure-cli#authenticate-to-azure-and-authorize-access-to-blob-data
+

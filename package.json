@@ -1,0 +1,24 @@
+{
+  "name": "my-azure-storage",
+  "version": "1.0.0",
+  "description": "# Blob https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction A container organizes a set of blobs, similar to a directory in a file system. A storage account can include an unlimited number of containers, and a container can store an unlimited number of blobs. ![image](https://user-images.githubusercontent.com/29280957/208163999-90c2449e-d13f-40af-8184-0a8ec0be09e4.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyhoang1996vn/my-azure-storage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyhoang1996vn/my-azure-storage/issues"
+  },
+  "homepage": "https://github.com/huyhoang1996vn/my-azure-storage#readme",
+  "dependencies": {
+    "@azure/identity": "^3.1.2",
+    "@azure/storage-blob": "^12.12.0",
+    "dotenv": "^16.0.3"
+  }
+}
