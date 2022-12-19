@@ -22,3 +22,9 @@ azcopy copy https://url-source https://url-destination
 # azure sdk
 https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-nodejs?tabs=managed-identity%2Croles-azure-portal%2Csign-in-azure-cli#authenticate-to-azure-and-authorize-access-to-blob-data
 
+# Redis
+
+https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-nodejs-get-started
+
+# Config env
+https://www.npmjs.com/package/dotenv
